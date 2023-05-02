@@ -7,8 +7,6 @@ public class Main {
 		
         uno.startGame();
 		
-		//this is a test to see if it works
-		
 		
 	}
 
